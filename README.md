@@ -134,6 +134,7 @@ This project is an Online Appointment System for Doctors, built using Blazor Ser
  4 - Run Application
  
  ![Screenshot 2023-08-18 145340](https://github.com/anilprajapatistartbit/blazor/assets/121869921/c90daa8e-4ca3-40fc-9cd4-416580c38f99)
+ 
 
  
 
