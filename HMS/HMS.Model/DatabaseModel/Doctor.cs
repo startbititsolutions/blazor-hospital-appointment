@@ -21,7 +21,7 @@ namespace HMS.Model.DatabaseModel
         public string Qualification { get; set; }
         public int? Experience { get; set; }
         public string PhoneNumber { get; set; }
-        public string AlternatePhoneNumber { get; set; }
+        public string? AlternatePhoneNumber { get; set; }
         public string AddressFirstLine { get; set; }
         public string? AddressSecondLine { get; set; }
         public string State { get; set; }

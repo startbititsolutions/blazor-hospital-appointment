@@ -29,7 +29,7 @@ namespace HMS.Model.DatabaseModel
         public string PhoneNumber { get; set; }
 
        
-        public string AlternatePhoneNumber { get; set; }
+        public string? AlternatePhoneNumber { get; set; }
 
   
         public string AddressFirstLine { get; set; }

@@ -20,6 +20,7 @@ namespace HMS.DataService
         {
             _httpClient = httpClient;
             _logService = logService;
+            _httpClient.DefaultRequestHeaders.TryAddWithoutValidation("Content-Type", "application/json; charset=utf-8");
         }
         #endregion
 
